@@ -1,2 +1,6 @@
 test1 with main branch
+
 second edit from commandline 
+
+first edit from browser after pulling the brnach to local
+
