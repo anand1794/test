@@ -6,3 +6,4 @@ first edit from browser after pulling the brnach to local
 
 first edit from browser before pull request merge
 
+example to check rebase and merge - commit 1
