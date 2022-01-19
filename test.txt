@@ -1,2 +1,8 @@
 test1 with main branch
+
+second edit from commandline 
+
+first edit from browser after pulling the brnach to local
+
 first edit from browser before pull request merge
+
