@@ -3,3 +3,5 @@ example file to check the rebase and merge
 adding one more commit to test rebase
 
 adding one more line to test master merge conflict
+
+final testing
